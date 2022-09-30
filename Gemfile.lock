@@ -157,7 +157,6 @@ GEM
     faker (2.20.0)
       i18n (>= 1.8.11, < 2)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw32)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.12.0)
@@ -192,13 +191,10 @@ GEM
     net-smtp (0.3.2)
       net-protocol
     nio4r (2.5.8)
-    nokogiri (1.13.8-x64-mingw32)
-      racc (~> 1.4)
     nokogiri (1.13.8-x86_64-linux)
       racc (~> 1.4)
     orm_adapter (0.5.0)
     pg (1.4.3)
-    pg (1.4.3-x64-mingw32)
     popper_js (2.11.6)
     public_suffix (5.0.0)
     racc (1.6.0)
@@ -262,8 +258,6 @@ GEM
     rubyzip (2.3.2)
     sassc (2.4.0)
       ffi (~> 1.9)
-    sassc (2.4.0-x64-mingw32)
-      ffi (~> 1.9)
     sassc-rails (2.1.2)
       railties (>= 4.0.0)
       sassc (>= 2.0)
@@ -314,7 +308,6 @@ GEM
     zeitwerk (2.6.0)
 
 PLATFORMS
-  x64-mingw32
   x86_64-linux
 
 DEPENDENCIES
@@ -346,7 +339,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.0.4p208
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.3.22
