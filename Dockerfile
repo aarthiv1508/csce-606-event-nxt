@@ -1,4 +1,4 @@
-FROM ruby:2.7.5
+FROM ruby:3.0.4
 WORKDIR /app
 RUN apt update -qq && apt install -y \
   build-essential \
